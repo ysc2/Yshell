@@ -1,0 +1,9 @@
+cd
+touch
+mkdir
+alias
+histary
+exit
+fg
+bg
+jobs
